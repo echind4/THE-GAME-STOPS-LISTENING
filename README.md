@@ -53,6 +53,7 @@ This repository contains the **open source version** of *The Game Stops Listenin
 | Effects | Simple camera overlays | Real effects via `Control` nodes |
 | Progression | Same level repeated 3 times with more delay | 3 levels in sequence, then restart with higher delay |
 | Console | None | Built-in console (expanding) |
+| Proportion | 4:3 | 16:9 |
 
 ---
 
